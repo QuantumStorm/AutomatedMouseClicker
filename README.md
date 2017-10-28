@@ -1,0 +1,2 @@
+# AutomatedMouseClicker
+Mausclick automatisierer
